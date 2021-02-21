@@ -6,12 +6,12 @@ A hexadecimal editor written in Python just because. I guess I was bored enough 
 
 To open a file, write the file path into the smaller box (which I hope you can find).
 
-[A screenshot](./Screenshot 1)
+[A screenshot](./Screenshot1)
 
 You can then read the file contents. To edit the file, just write the hexadecimal stuffs inside, like so:
 
-[Yet another screenshot](./Screenshot 2)
+[Yet another screenshot](./Screenshot2)
 
 It might be helpful to use a [ASCII table](https://www.google.com/search?q=ascii+table) or something. To save the file, simply press "Save":
 
-[Why do I have another screenshot](./Screenshot 3)
+[Why do I have another screenshot](./Screenshot3)
